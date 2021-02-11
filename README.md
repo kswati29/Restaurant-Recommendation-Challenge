@@ -79,7 +79,7 @@ Where 1 indicates that a customer will order from that restaurant and 0 that the
 |WTWOE69 X 0 X 105      |      0
 
 
-
+<img src="image/Train.png" alt="alt text" width="1000"/>
 
 
 
